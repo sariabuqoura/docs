@@ -30,6 +30,10 @@
       "name": "test",
       "url": "test"
     }
+     {
+      "name": "test2",
+      "url": "test2"
+    }
   ],
   "anchors": [
     {
