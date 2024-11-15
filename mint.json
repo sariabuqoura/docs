@@ -17,35 +17,25 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Team",
+      "url": "mailto:Team@securing-the-future.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "WebSite",
+    "url": "https://securing-the-future.com"
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "test",
+      "url": "test"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
+      "name": "Website",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://securing-the-future.com"
     }
   ],
   "navigation": [
@@ -60,12 +50,7 @@
     {
       "group": "Essentials",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "essentials/markdown"
       ]
     },
     {
