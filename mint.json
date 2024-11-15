@@ -29,7 +29,7 @@
     {
       "name": "test",
       "url": "test"
-    }
+    },
      {
       "name": "test2",
       "url": "test2"
@@ -46,7 +46,7 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
+        "introduction"
       ]
     },
     {
