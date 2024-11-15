@@ -53,10 +53,17 @@
         "essentials/markdown"
       ]
     },
+    ,
+    {
+      "group": "AI/ML",
+      "pages": [
+        "aiml/filetypes"
+    ]
+    },
     {
       "group": "API Documentation",
       "pages": [
-        "api-reference/introduction"
+        "test"
       ]
     },
     {
